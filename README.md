@@ -53,7 +53,7 @@ __Feedback Analysis:__ Reviews patient feedback to gauge service satisfaction.
 
 __Follow-Up Trends:__ Monitors the follow-up patterns for better patient care management.
 
-![Uploading Screenshot 2024-10-07 114531.png…]()
+
 
 
 # __Tools__
