@@ -62,7 +62,7 @@ __Power BI:__ Used to design and develop the dashboard.
 
 __Microsoft Excel:__ Data preprocessing and cleaning before importing into Power BI.
 
-![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDHrOQczeiry2TOrA3S4juzFpq-kN_aA2kQ&usqp=CAU)
+
 # __Key Features__
 __Interactive Filters:__ Allows users to filter data by diagnosis, doctor, or patient feedback.
 
